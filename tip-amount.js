@@ -1,7 +1,7 @@
 var amount = 100;
 var tip = 20;
-var tipInDollars
+var tipInDollars;
 
 tipInDollars = amount * (tip / 100);
 
-console.log("The tip on a $some-number food bill is $" + tipInDollars );
+console.log("The tip on a $some-number food bill is $" + tipInDollars);
